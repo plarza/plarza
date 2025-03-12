@@ -1,2 +1,2 @@
-# Plarza web client
+# Plarza
 Report bugs here
